@@ -1,0 +1,11 @@
+model_class,order,seasonal_order
+ARIMA,"(0, 1, 1)","(0, 0, 0, 0)"
+ARIMA,"(1, 1, 1)","(0, 0, 0, 0)"
+ARIMA,"(2, 1, 1)","(0, 0, 0, 0)"
+ARIMA,"(1, 1, 2)","(0, 0, 0, 0)"
+SARIMA/SARIMAX,"(0, 1, 1)","(0, 0, 1, 12)"
+SARIMA/SARIMAX,"(1, 1, 1)","(0, 0, 1, 12)"
+SARIMA/SARIMAX,"(0, 1, 1)","(1, 0, 0, 12)"
+SARIMA/SARIMAX,"(1, 1, 1)","(1, 0, 0, 12)"
+SARIMA/SARIMAX,"(0, 1, 1)","(0, 1, 1, 12)"
+SARIMA/SARIMAX,"(1, 1, 1)","(0, 1, 1, 12)"

@@ -1,0 +1,7 @@
+country,acf,pacf,implication
+Australia,Lag-1 short-run dependence with seasonal spikes around 12/24/36,Short-lag AR signal with seasonal signal near 12/24,Use low-order ARIMA and monthly SARIMA with s=12
+Canada,Strong short-run dependence and clear seasonal spikes at 12/24/36,Short-lag AR signal with seasonal signal near 12/24,Use low-order ARIMA and monthly SARIMA with s=12
+Ireland,Weaker/noisier short-run dependence with mild seasonal spikes,Weak short-lag AR signal and mild seasonal signal,Keep low-order candidates; avoid overly large p/q
+New_Zealand,Lag-1 dependence with seasonal spikes around 12/24,Short-lag AR signal around 1–2 and seasonal signal near 12,"Include ARIMA(2,1,1) and SARIMA candidates"
+UK,Strong lag-1 dependence and strong seasonal spikes at 12/24/36,Short-lag AR signal and seasonal dependence near 12/24,Strong reason to test SARIMA with s=12
+US,Lag-1 dependence with seasonal/mid-lag spikes around 12/24/30/36,Short-lag AR signal and less clean seasonal dependence,"Include ARIMA(1,1,2) and SARIMA candidates"

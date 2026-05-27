@@ -1,0 +1,8 @@
+eda_finding,modeling_decision
+First-differenced anxiety is more stationary than levels,Use d = 1 in ARIMA/SARIMA candidates
+ACF shows lag-1 dependence,"Include ARIMA(0,1,1)"
+ACF and PACF both show short-lag signals,"Include ARIMA(1,1,1)"
+Some countries show lag 1–2 dependence/noisier short-run pattern,"Include ARIMA(2,1,1) and ARIMA(1,1,2)"
+ACF/PACF show seasonal spikes at 12/24/36,Use SARIMA seasonal period s = 12
+Seasonal differencing is plausible but not guaranteed,Compare D = 0 and D = 1
+Seasonal AR and MA behavior are both plausible,"Test seasonal AR (1,D,0,12) and seasonal MA (0,D,1,12)"
