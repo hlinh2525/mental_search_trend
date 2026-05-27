@@ -1,0 +1,19 @@
+country,model_type,benchmark_model,DM_stat,DM_pvalue,mean_loss_diff,n,interpretation,model_underperforms_benchmark,significant_5pct,country_label,model_label
+Australia,ARIMA,Seasonal_Naive,3.119852094940338,0.001809418691036,138.5064416537214,31,negative DM means model lower loss than benchmark,True,True,Australia,ARIMA
+Australia,SARIMA,Seasonal_Naive,2.128482653359961,0.0332970866851132,47.22107412244393,31,negative DM means model lower loss than benchmark,True,True,Australia,SARIMA
+Australia,SARIMAX,Seasonal_Naive,4.387768842643343,1.145193935614408e-05,1478.5718026425952,31,negative DM means model lower loss than benchmark,True,True,Australia,SARIMAX
+Canada,ARIMA,Seasonal_Naive,1.6348386288642855,0.1020828805653712,55.21587088635168,31,negative DM means model lower loss than benchmark,True,False,Canada,ARIMA
+Canada,SARIMA,Seasonal_Naive,1.9782867542896572,0.0478963665323945,125.70935507664328,31,negative DM means model lower loss than benchmark,True,True,Canada,SARIMA
+Canada,SARIMAX,Seasonal_Naive,3.198266032861228,0.0013825667132694,442.4681095067402,31,negative DM means model lower loss than benchmark,True,True,Canada,SARIMAX
+Ireland,ARIMA,Seasonal_Naive,2.0141604569672302,0.043992689820774,69.44480043283515,31,negative DM means model lower loss than benchmark,True,True,Ireland,ARIMA
+Ireland,SARIMA,Seasonal_Naive,1.9369305387566784,0.0527538348214966,54.413597274388806,31,negative DM means model lower loss than benchmark,True,False,Ireland,SARIMA
+Ireland,SARIMAX,Seasonal_Naive,4.169536273519975,3.052200367714697e-05,1048.4067238804255,31,negative DM means model lower loss than benchmark,True,True,Ireland,SARIMAX
+New_Zealand,ARIMA,Seasonal_Naive,2.8739971369639674,0.004053126372324,158.10251038214864,31,negative DM means model lower loss than benchmark,True,True,New Zealand,ARIMA
+New_Zealand,SARIMA,Seasonal_Naive,2.3699254131315146,0.017791674037757,228.06491935688024,31,negative DM means model lower loss than benchmark,True,True,New Zealand,SARIMA
+New_Zealand,SARIMAX,Seasonal_Naive,1.328256179405009,0.1840934908162741,26.96405264625288,31,negative DM means model lower loss than benchmark,True,False,New Zealand,SARIMAX
+UK,ARIMA,Seasonal_Naive,2.6754165017652385,0.0074636462411752,83.57057042063215,31,negative DM means model lower loss than benchmark,True,True,United Kingdom,ARIMA
+UK,SARIMA,Seasonal_Naive,2.4700805770772902,0.0135082621245952,117.56679649736532,31,negative DM means model lower loss than benchmark,True,True,United Kingdom,SARIMA
+UK,SARIMAX,Seasonal_Naive,3.995049940157641,6.468061744802078e-05,355.9389822399069,31,negative DM means model lower loss than benchmark,True,True,United Kingdom,SARIMAX
+US,ARIMA,Naive,4.311393468978463,1.6222892987860504e-05,30.003402001302423,31,negative DM means model lower loss than benchmark,True,True,United States,ARIMA
+US,SARIMA,Naive,4.018105353630658,5.8667966980952e-05,66.41267040118302,31,negative DM means model lower loss than benchmark,True,True,United States,SARIMA
+US,SARIMAX,Naive,5.061866474914204,4.151717638567476e-07,255.63810834688687,31,negative DM means model lower loss than benchmark,True,True,United States,SARIMAX

@@ -1,0 +1,6 @@
+forecast_evaluation_summary
+Benchmark models are the best full post-COVID test models in 6/6 countries; Seasonal Naive is best in 5/6 countries.
+"SARIMA is the best average model for horizons h01-03, so SARIMA remains useful for short-horizon seasonal dynamics."
+Diebold-Mariano tests are interpreted with positive mean loss difference meaning the ARIMA/SARIMA/SARIMAX model underperforms the benchmark.
+Rolling-origin evaluation provides a robustness check; the best average rolling-origin model is Seasonal Naive.
+Forecast evaluation should be treated as validation. The central research contribution remains SARIMAX intervention interpretation and cross-country comparison.

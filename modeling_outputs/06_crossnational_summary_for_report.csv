@@ -1,0 +1,6 @@
+topic,finding,interpretation
+Forecasting,Benchmark models are best in 6/6 post-COVID test countries; Seasonal Naive is best in 5/6.,Post-COVID anxiety search behavior is highly persistent and seasonally regular; forecast evaluation validates the modeling context rather than replacing intervention analysis.
+ARIMA/SARIMA modeling,SARIMA is the best average model for horizons h01-03; Seasonal Naive has the best rolling-origin average RMSE.,SARIMA remains useful for short-horizon dynamics and seasonal structure even when benchmarks dominate long-horizon test forecasts.
+SARIMAX intervention,7 significant intervention terms appear across 4/6 countries (7 negative; 0 positive).,The SARIMAX evidence does not support a robust uniform positive COVID-period increase; significant results mainly indicate decline or normalization.
+Counterfactual analysis,The logit counterfactual shows negative full-period mean gaps in 5/6 countries.,Observed anxiety searches usually fall below the no-COVID baseline after accounting for the bounded Google Trends scale.
+Diagnostics,Full-sample SARIMAX residuals pass Ljung-Box p24 in 4/6 countries.,Inference is stronger in countries that pass residual autocorrelation diagnostics; countries that fail require cautious interpretation.

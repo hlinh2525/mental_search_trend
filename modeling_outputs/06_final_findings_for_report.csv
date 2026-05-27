@@ -1,0 +1,7 @@
+country,country_label,best_test_model,best_test_RMSE,forecast_label,intervention_label,diagnostics_label,counterfactual_label
+Australia,Australia,Seasonal_Naive,5.220925637866243,benchmark-dominant forecast case,negative or declining intervention evidence,residual diagnostics unavailable,observed below logit counterfactual on average
+Canada,Canada,Seasonal_Naive,5.064105181601443,benchmark-dominant forecast case,negative or declining intervention evidence,residual diagnostics unavailable,observed below logit counterfactual on average
+Ireland,Ireland,Seasonal_Naive,5.509522548250204,benchmark-dominant forecast case,no significant SARIMAX intervention terms,residual diagnostics unavailable,observed below logit counterfactual on average
+New_Zealand,New Zealand,Seasonal_Naive,8.226628674909225,benchmark-dominant forecast case,no significant SARIMAX intervention terms,residual diagnostics unavailable,observed below logit counterfactual on average
+UK,United Kingdom,Seasonal_Naive,4.71100290671708,benchmark-dominant forecast case,negative or declining intervention evidence,residual diagnostics unavailable,observed below logit counterfactual on average
+US,United States,Naive,4.299287262761345,benchmark-dominant forecast case,negative or declining intervention evidence,residual diagnostics unavailable,observed above logit counterfactual on average

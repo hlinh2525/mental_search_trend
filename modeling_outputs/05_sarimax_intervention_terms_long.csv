@@ -1,0 +1,31 @@
+country,term,coef,pvalue,significant_5pct,direction,country_label
+Australia,early_covid_shock,-1.089192622938792,0.6306582428428941,False,negative,Australia
+Australia,covid_period,-2.060245400529348,0.5940174964408199,False,negative,Australia
+Australia,covid_trend,-0.5194856039081073,0.0299260298543381,True,negative,Australia
+Australia,post_covid_period,-23.760273086497364,0.0248932559790076,True,negative,Australia
+Australia,post_covid_trend,-0.9619091119181212,0.0052568382669179,True,negative,Australia
+Canada,early_covid_shock,-7.876625705649936,0.0750138715907946,False,negative,Canada
+Canada,covid_period,1.841984672617467,0.6068589344375417,False,positive,Canada
+Canada,covid_trend,-0.3189727442341499,0.1185112391630349,False,negative,Canada
+Canada,post_covid_period,-11.14601063424348,0.2670090192423384,False,negative,Canada
+Canada,post_covid_trend,-0.6465570382123215,0.0017951806615641,True,negative,Canada
+Ireland,early_covid_shock,-4.680619939590592,0.3394025169206043,False,negative,Ireland
+Ireland,covid_period,-0.3434630479639791,0.9628603035348912,False,negative,Ireland
+Ireland,covid_trend,-0.6150267919882519,0.1118876129386601,False,negative,Ireland
+Ireland,post_covid_period,-28.517145045277964,0.101049732052597,False,negative,Ireland
+Ireland,post_covid_trend,-0.8445807383915629,0.0874178654501368,False,negative,Ireland
+New_Zealand,early_covid_shock,0.4351170183423097,0.9206809827567466,False,positive,New Zealand
+New_Zealand,covid_period,-2.6686412232593693,0.7190499264541392,False,negative,New Zealand
+New_Zealand,covid_trend,0.253800314374794,0.6620843068564275,False,positive,New Zealand
+New_Zealand,post_covid_period,5.356142073489815,0.8356209990922068,False,positive,New Zealand
+New_Zealand,post_covid_trend,-0.8936941365604432,0.1811712428791335,False,negative,New Zealand
+UK,early_covid_shock,-9.868751824443368,1.659822869814039e-06,True,negative,United Kingdom
+UK,covid_period,3.425562502867153,0.131200664723446,False,positive,United Kingdom
+UK,covid_trend,-0.3146946546327452,0.1963947386739877,False,negative,United Kingdom
+UK,post_covid_period,-8.929539576398797,0.3952729288250605,False,negative,United Kingdom
+UK,post_covid_trend,-0.5263283453998703,0.0350898817997502,True,negative,United Kingdom
+US,early_covid_shock,-2.439829183965688,0.1468329963691333,False,negative,United States
+US,covid_period,0.9803195009193232,0.7348951474912718,False,positive,United States
+US,covid_trend,-0.3094895644958051,0.1574413642744864,False,negative,United States
+US,post_covid_period,-14.386883480164506,0.1207738588817323,False,negative,United States
+US,post_covid_trend,-0.4969863548463533,0.0494633648448024,True,negative,United States

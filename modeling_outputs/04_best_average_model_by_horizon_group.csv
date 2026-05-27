@@ -1,0 +1,5 @@
+horizon_group,model_type,n_country_horizon_cells,RMSE,sMAPE,model_label,horizon_label
+h01_03,SARIMA,6,3.7759969662843456,3.733044208702504,SARIMA,h01-03
+h04_12,Seasonal_Naive,6,5.442140652757613,5.141544351560845,Seasonal Naive,h04-12
+h13_24,Seasonal_Naive,6,4.831256827402903,4.51006544582716,Seasonal Naive,h13-24
+h25_plus,Seasonal_Naive,6,8.426378582193703,8.328662963503795,Seasonal Naive,h25+

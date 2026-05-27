@@ -1,0 +1,7 @@
+country,best_test_model,test_RMSE,test_sMAPE,significant_sarimax_terms_5pct
+Australia,Seasonal_Naive,5.220925637866243,4.512261555540563,"covid_trend (-0.519, p=0.030); post_covid_period (-23.760, p=0.025); post_covid_trend (-0.962, p=0.005)"
+Canada,Seasonal_Naive,5.064105181601443,4.94175723581715,"post_covid_trend (-0.647, p=0.002)"
+Ireland,Seasonal_Naive,5.509522548250204,5.2521981624034675,None
+New_Zealand,Seasonal_Naive,8.226628674909225,7.401847149969511,None
+UK,Seasonal_Naive,4.71100290671708,4.422433561416391,"early_covid_shock (-9.869, p=0.000); post_covid_trend (-0.526, p=0.035)"
+US,Naive,4.299287262761345,3.5102554592557054,"post_covid_trend (-0.497, p=0.049)"

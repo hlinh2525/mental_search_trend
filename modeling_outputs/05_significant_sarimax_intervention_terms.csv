@@ -1,0 +1,8 @@
+country,term,coef,pvalue,significant_5pct,direction,country_label
+Australia,covid_trend,-0.5194856039081073,0.0299260298543381,True,negative,Australia
+Australia,post_covid_period,-23.760273086497364,0.0248932559790076,True,negative,Australia
+Australia,post_covid_trend,-0.9619091119181212,0.0052568382669179,True,negative,Australia
+Canada,post_covid_trend,-0.6465570382123215,0.0017951806615641,True,negative,Canada
+UK,early_covid_shock,-9.868751824443368,1.659822869814039e-06,True,negative,United Kingdom
+UK,post_covid_trend,-0.5263283453998703,0.0350898817997502,True,negative,United Kingdom
+US,post_covid_trend,-0.4969863548463533,0.0494633648448024,True,negative,United States

@@ -1,0 +1,7 @@
+country,country_label,intervention_label,sarimax_intervention_interpretation
+Australia,Australia,negative or declining intervention evidence,"covid_trend is negative (coef=-0.519, p=0.030); post_covid_period is negative (coef=-23.760, p=0.025); post_covid_trend is negative (coef=-0.962, p=0.005)."
+Canada,Canada,negative or declining intervention evidence,"post_covid_trend is negative (coef=-0.647, p=0.002)."
+Ireland,Ireland,no significant intervention evidence,No statistically significant SARIMAX intervention term at the 5% level.
+New_Zealand,New Zealand,no significant intervention evidence,No statistically significant SARIMAX intervention term at the 5% level.
+UK,United Kingdom,negative or declining intervention evidence,"early_covid_shock is negative (coef=-9.869, p=0.000); post_covid_trend is negative (coef=-0.526, p=0.035)."
+US,United States,negative or declining intervention evidence,"post_covid_trend is negative (coef=-0.497, p=0.049)."
